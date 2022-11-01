@@ -9,6 +9,7 @@ label {
   
   }
   input {
+    margin-top: .6rem;
     padding: .5rem;
     width: 100%;
     max-width: 600px;
